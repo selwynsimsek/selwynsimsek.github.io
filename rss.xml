@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"> <channel> <title>Selwyn Simsek</title> <link>http://selwynsimsek.co.uk</link> <atom:link href="http://selwynsimsek.co.uk/rss.xml" rel="self" type="application/rss+xml" /> <language>en-us</language> <pubDate>Mon, 12 Aug 2019 12:04:24 +0000</pubDate> <item> <title>Introduction</title> <link>http://selwynsimsek.co.uk/posts/Introduction.html</link> <pubDate>2019-08-10 12:00:00</pubDate> <author>Selwyn Simsek</author> <guid isPermaLink="true">http://selwynsimsek.co.uk/posts/Introduction.html</guid>  <description><![CDATA[ <h1>Announcement</h1>
+
+<p>This is my personal website.</p>
+
+<h2>An equation</h2>
+
+<p>$$ x^2 - 2x = 1 $$</p>
+
+<h2>An excerpt of Common Lisp</h2>
+
+<pre><code><span class="code"><span class="paren1">(<span class="code"><a href="http://www.lispworks.com/reference/HyperSpec/Body/m_in_pkg.htm" class="symbol">in-package</a> <span class="keyword">:lisp-o-motive</span></span>)</span>
+
+<span class="paren1">(<span class="code"><a href="http://www.lispworks.com/reference/HyperSpec/Body/m_defcla.htm" class="symbol"><i><span class="symbol">defclass</span></i></a> train-movements-message <span class="paren2">(<span class="code">network-rail-message</span>)</span>
+  <span class="paren2">(<span class="code"><span class="paren3">(<span class="code">source-dev-id <span class="keyword">:initarg</span> <span class="keyword">:source-dev-id</span></span>)</span>
+   <span class="paren3">(<span class="code">user-id <span class="keyword">:initarg</span> <span class="keyword">:user-id</span></span>)</span>
+   <span class="paren3">(<span class="code">original-data-source <span class="keyword">:initarg</span> <span class="keyword">:original-data-source</span></span>)</span>
+   <span class="paren3">(<span class="code">message-queue-timestamp <span class="keyword">:initarg</span> <span class="keyword">:msg-queue-timestamp</span></span>)</span>
+   <span class="paren3">(<span class="code">source-system-id <span class="keyword">:initarg</span> <span class="keyword">:source-system-id</span></span>)</span>
+   <span class="paren3">(<span class="code">train-id <span class="keyword">:initarg</span> <span class="keyword">:train-id</span></span>)</span></span>)</span></span>)</span></span></code></pre>
+ ]]></description> </item> </channel> </rss>

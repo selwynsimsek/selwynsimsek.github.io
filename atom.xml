@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom"> <title>Selwyn Simsek</title> <link href="http://selwynsimsek.co.uk"/> <link type="application/atom+xml" rel="self" href="http://selwynsimsek.co.uk/atom.xml"/> <updated>Mon, 12 Aug 2019 12:04:24 +0000</updated> <author> <name>Selwyn Simsek</name> </author> <entry> <link type="text/html" rel="alternate" href="http://selwynsimsek.co.uk/posts/Introduction.html"/> <title>Introduction</title> <published>2019-08-10 12:00:00</published> <updated>2019-08-10 12:00:00</updated> <author> <name>Selwyn Simsek</name> <uri>http://selwynsimsek.co.uk</uri> </author> <content type="html">&lt;h1&gt;Announcement&lt;/h1&gt;
+
+&lt;p&gt;This is my personal website.&lt;/p&gt;
+
+&lt;h2&gt;An equation&lt;/h2&gt;
+
+&lt;p&gt;$$ x^2 - 2x = 1 $$&lt;/p&gt;
+
+&lt;h2&gt;An excerpt of Common Lisp&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;&lt;span class=&quot;code&quot;&gt;&lt;span class=&quot;paren1&quot;&gt;(&lt;span class=&quot;code&quot;&gt;&lt;a href=&quot;http://www.lispworks.com/reference/HyperSpec/Body/m_in_pkg.htm&quot; class=&quot;symbol&quot;&gt;in-package&lt;/a&gt; &lt;span class=&quot;keyword&quot;&gt;:lisp-o-motive&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;paren1&quot;&gt;(&lt;span class=&quot;code&quot;&gt;&lt;a href=&quot;http://www.lispworks.com/reference/HyperSpec/Body/m_defcla.htm&quot; class=&quot;symbol&quot;&gt;&lt;i&gt;&lt;span class=&quot;symbol&quot;&gt;defclass&lt;/span&gt;&lt;/i&gt;&lt;/a&gt; train-movements-message &lt;span class=&quot;paren2&quot;&gt;(&lt;span class=&quot;code&quot;&gt;network-rail-message&lt;/span&gt;)&lt;/span&gt;
+  &lt;span class=&quot;paren2&quot;&gt;(&lt;span class=&quot;code&quot;&gt;&lt;span class=&quot;paren3&quot;&gt;(&lt;span class=&quot;code&quot;&gt;source-dev-id &lt;span class=&quot;keyword&quot;&gt;:initarg&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;:source-dev-id&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;
+   &lt;span class=&quot;paren3&quot;&gt;(&lt;span class=&quot;code&quot;&gt;user-id &lt;span class=&quot;keyword&quot;&gt;:initarg&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;:user-id&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;
+   &lt;span class=&quot;paren3&quot;&gt;(&lt;span class=&quot;code&quot;&gt;original-data-source &lt;span class=&quot;keyword&quot;&gt;:initarg&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;:original-data-source&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;
+   &lt;span class=&quot;paren3&quot;&gt;(&lt;span class=&quot;code&quot;&gt;message-queue-timestamp &lt;span class=&quot;keyword&quot;&gt;:initarg&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;:msg-queue-timestamp&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;
+   &lt;span class=&quot;paren3&quot;&gt;(&lt;span class=&quot;code&quot;&gt;source-system-id &lt;span class=&quot;keyword&quot;&gt;:initarg&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;:source-system-id&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;
+   &lt;span class=&quot;paren3&quot;&gt;(&lt;span class=&quot;code&quot;&gt;train-id &lt;span class=&quot;keyword&quot;&gt;:initarg&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;:train-id&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+</content> </entry> </feed>
